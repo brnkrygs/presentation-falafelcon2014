@@ -1,0 +1,16 @@
+.abs-left{
+    position: absolute;
+    left:0;
+}
+.abs-right{
+    position: absolute;
+    right:0;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.reveal dt{
+    margin-top:1.8em;
+}
